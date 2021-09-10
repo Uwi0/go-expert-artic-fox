@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Go Expert</string>
+    <string name="emkl_ka4">EMKL KA4</string>
+    <string name="expedition">EXPEDITION</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="user_id">User id</string>
+    <string name="password">Password</string>
 </resources>

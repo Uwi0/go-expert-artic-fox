@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="viking60">#9960B7E0</color>
+    <color name="blue_lagoon">#00838E</color>
+    <color name="silver">#C4C4C4</color>
+    <color name="dorado">#715959</color>
+    <color name="wild_sand">#F6F6F6</color>
+    <color name="verdun_green">#407600</color>
+    <color name="jade60">#9900A873</color>
+    <color name="clam_shell">#DBBCBC</color>
 </resources>
