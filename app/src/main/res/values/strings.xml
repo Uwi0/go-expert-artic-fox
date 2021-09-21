@@ -8,4 +8,20 @@
     <string name="dont_have_account">Don\'t have an account? Register</string>
     <string name="user_id">User id</string>
     <string name="password">Password</string>
+    <string name="btm_home">Home</string>
+    <string name="btm_master">Master Data</string>
+    <string name="btm_tracking">Tracking</string>
+    <string name="btm_mapping">Mapping</string>
+    <string name="btm_booking_slot">Booking Slot</string>
+    <string name="communication">Communication</string>
+    <string name="customer_service">Customer Service</string>
+    <string name="invoice">Invoice</string>
+    <string name="log">Log</string>
+    <string name="others">Others</string>
+    <string name="settings">Settings</string>
+    <string name="Logout">Logout</string>
+    <string name="reset_password">Reset password</string>
+    <string name="forgot_pass_ins">Enter the number whatsapp associated with your account and we’ll send an whatsapp with instructions to reset your password.</string>
+    <string name="confirm_number">Confirm Number</string>
+    <string name="your_account">Your Account has been Verified</string>
 </resources>

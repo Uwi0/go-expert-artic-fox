@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_navigation"
+    app:startDestination="@id/menu_home">
+
+    <fragment
+        android:id="@+id/menu_home"
+        android:name="com.kakapo.goexpert.fragment.home.HomeFragment"
+        android:label="home_fragment"
+        tools:layout="@layout/home_fragment" />
+    <fragment
+        android:id="@+id/menu_master_data"
+        android:name="com.kakapo.goexpert.fragment.master_data.MasterDataFragment"
+        android:label="master_data_fragment"
+        tools:layout="@layout/master_data_fragment" />
+    <fragment
+        android:id="@+id/menu_tracking"
+        android:name="com.kakapo.goexpert.fragment.tracking.TrackingFragment"
+        android:label="tracking_fragment"
+        tools:layout="@layout/tracking_fragment" />
+    <fragment
+        android:id="@+id/menu_mapping"
+        android:name="com.kakapo.goexpert.fragment.mapping.MappingFragment"
+        android:label="mapping_fragment"
+        tools:layout="@layout/mapping_fragment" />
+    <fragment
+        android:id="@+id/menu_booking_slot"
+        android:name="com.kakapo.goexpert.fragment.booking_slot.BookingSlotFragment"
+        android:label="booking_slot_fragment"
+        tools:layout="@layout/booking_slot_fragment" />
+</navigation>

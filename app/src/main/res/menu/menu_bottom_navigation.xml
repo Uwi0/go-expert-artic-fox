@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/btm_home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/menu_master_data"
+        android:title="@string/btm_master"
+        android:icon="@drawable/ic_master_data"/>
+
+    <item
+        android:id="@+id/menu_tracking"
+        android:title="@string/btm_tracking"
+        android:icon="@drawable/ic_tracking"/>
+
+    <item
+        android:id="@+id/menu_mapping"
+        android:title="@string/btm_mapping"
+        android:icon="@drawable/ic_mapping"/>
+
+    <item
+        android:id="@+id/menu_booking_slot"
+        android:title="@string/btm_booking_slot"
+        android:icon="@drawable/ic_booking_slot"/>
+</menu>
